@@ -1,0 +1,7 @@
+{
+  "name": "NannyTrack Pro",
+  "description": "A professional time-tracking application for nannies to clock in and out, featuring automated session summaries and weekly reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
